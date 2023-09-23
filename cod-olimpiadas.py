@@ -1,0 +1,10 @@
+def f(x):"suma y resta de dos numeros "
+print("ingrese los dos numeros")
+numero1= input()
+numero2= input()
+print("la suma de estos dos numeros es")
+operacion= int(numero1)+int(numero2)
+print(operacion)
+print("la resta de estos dos numeros es")
+operacion=int(numero2)-int(numero1)
+print(operacion)
